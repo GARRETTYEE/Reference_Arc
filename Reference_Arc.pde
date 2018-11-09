@@ -12,4 +12,5 @@ stroke(0,255,0);
 arc(180,180,70,70,radians(180),radians(360)); 
 stroke(0,0,255);
 arc(320,180,70,70,radians(180),radians(360));
+stroke(0,0,0);
 arc(250,300,160,100,radians(0),radians(180));
